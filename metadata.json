@@ -1,0 +1,7 @@
+{
+  "name": "Ende Clone - Furniture Store",
+  "description": "A premium furniture e-commerce store in Georgian language featuring an AI shopping assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
